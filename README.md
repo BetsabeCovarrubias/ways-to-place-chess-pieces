@@ -35,6 +35,7 @@ Input:
 .##
 
 Output:
+
 2
 
 ### Example 3
