@@ -8,22 +8,32 @@ The first line of the input consists of two integers n and k. n means the size o
 
 Starter code: pro1.cpp
 
-Example 1
+### Example 1
 
 Input:
+
 2 1
+
 .#
+
 #.
 
 Output:
+
 2
-Example 2
+
+### Example 2
 
 Input:
+
 3 3
+
 #.#
+
 .##
+
 .##
+
 Output:
 2
 Example 3
