@@ -36,13 +36,21 @@ Input:
 
 Output:
 2
-Example 3
+
+### Example 3
 
 Input:
+
 4 4
+
 ...#
+
 ..#.
+
 .#..
+
 #...
+
 Output:
+
 1
