@@ -6,7 +6,7 @@ Given a board with irregular shape, your task is to place chess pieces and make 
 
 The first line of the input consists of two integers n and k. n means the size of board is n x n and k is the number of chess pieces to be placed. The next n lines describe the shape of the chess board: '#' describes the board region and '.' is the blank region (cannot place chess piece here)
 
-Done in C++ and Python
+__Done in C++ and Python__
 
 ### Example 1
 
